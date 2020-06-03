@@ -1,0 +1,4 @@
+sfc /scannow
+
+git init
+git remote update
